@@ -1,4 +1,10 @@
+game:service'StarterGui':SetCore("SendNotification",{
 
+Title = "If you dont";
+
+Text = "have 15 radios dupe untill you have 15";
+
+});
 wait(0.1)
 local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
 
