@@ -1,0 +1,347 @@
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(0, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(1, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(2, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(3, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(4, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(5, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(6, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(7, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -20, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -19, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -18, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -17, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -16, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(7, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(6, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(5, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(4, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(3, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(2, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(1, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(0, -15, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -14, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -13, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -12, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -11, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(8, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(7, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(6, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(5, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(4, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(3, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(2, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(1, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
+
+wait(0.1)
+
+local Radio = game.Players.LocalPlayer.Backpack['BoomBox']
+
+Radio.Parent = game.Players.LocalPlayer.Character
+
+Radio.Handle.Massless = true
+
+Radio.Grip = CFrame.new(0, -10, 0) * CFrame.Angles(0, math.rad(0), math.rad(0))
